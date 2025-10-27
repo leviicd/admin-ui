@@ -10,7 +10,7 @@ function Exercise() {
         </h1>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto">
           <UserCard 
-          name="levi" 
+          name="lepi" 
           email="levi@gmail.com"
           street="Jl. Gergaji"
           city="Tegal"
