@@ -14,14 +14,14 @@ function Exercise() {
         </h1>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-5xl mx-auto mb-12">
           <UserCard 
-            name="Surya"
-            email="Surya@gmail.com"
+            name="Pahlevi"
+            email="Pahlevi@gmail.com"
             street="JL. Eboni"
             city="Semarang"
           />
           <UserCard 
-            name="Tetuko"
-            email="Tetuko@gmail.com"
+            name="Cendikia"
+            email="Cendikia@gmail.com"
             street="JL. Angsana"
             city="Semarang"
           />
